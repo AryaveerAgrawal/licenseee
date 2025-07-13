@@ -1,9 +1,9 @@
- import SingleDash from "./SingleDash";
+ import DrivingLicenseExtractor from "./DrivingLicenseExtractor";
 
 function App() {
   return (
     <div className="App">
-      <SingleDash />
+      <DrivingLicenseExtractor />
     </div>
   );
 }
